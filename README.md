@@ -1,6 +1,5 @@
 <H3>Market Movement Prediction</H3>
 <p><b>Financial markets react rapidly to news events</b> such as inflation reports, central bank meetings, corporate earnings announcements, and geopolitical events. Understanding how these events influence market behavior is critical for investors, analysts, and financial institutions.</p>
-<br>
 <p>This project analyses <b>3000+ financial news events from February 2025 to August 2025</b> to understand how different market events influence stock market indices.
 <p>
 Key Highlights:
