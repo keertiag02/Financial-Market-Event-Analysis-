@@ -4,8 +4,8 @@
 <p>
 Key Highlights:
 <ul>
-<li>Performed data pre-processing, feature engineering, and data mining on Jupyter Notebook using Python libraries (Pandas, SciPy, Scikit-learn).</li>
-<li>Visualize the possible trends and relationships from the dataset using visualization libraries (Matplotlib, Seaborn)</li>
+<li>Performed data pre-processing, feature engineering, and data mining on Jupyter Notebook using Pandas, NumPy, Scikit-learn.</li>
+<li>Visualize the possible trends and relationships from the dataset using visualization library, Seaborn.</li>
 <li>Built a <b>Classification model</b> to predict market direction whether a market index will move up, down, or remain neutral following a financial event</li>
 <li>Built a <b>Regression model</b> to help understand how strongly the market reacts.</li>
 </p>
