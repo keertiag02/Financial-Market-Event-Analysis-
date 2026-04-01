@@ -6,9 +6,9 @@ Key Highlights:
 <ul>
 <li>Performed data pre-processing, feature engineering, and data mining on Jupyter Notebook using Pandas, NumPy, Scikit-learn.</li>
 <li>Visualize the possible trends and relationships from the dataset using visualization library, Seaborn.</li>
-<li>Built a <b>Classification model</b> to predict market direction whether a market index will move up, down, or remain neutral following a financial event</li>
-<li>Built a <b>Regression model</b> to help understand how strongly the market reacts.</li>
+<li>Built a <b>Classification model</b> and a <b>Regression model</b> to predict market direction following a financial event and how strongly it gets affected.</li>
 </p>
 <p>The analysis combines event metadata, market indicators, and sentiment signals to model market reactions and <b>identify patterns in financial market behavior</b>.</p>
 <br>
-
+<img width="450" height="550" alt="ProjectSS1" src="ProjectSS1.png" />
+<img width="450" height="550" alt="ProjectSS2" src="ProjectSS2.png" />
